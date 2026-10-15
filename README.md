@@ -1,16 +1,53 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Hello, I'm Pluto. A little curiosity, a little progress." />
+</p>
 
-<!--
-**Pluto-Liu-github/Pluto-Liu-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  在代码里寻找答案，也为好奇心留一片空地。
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Pluto-Liu-github?tab=repositories">项目一览</a> ·
+  <a href="./notes/README.md">学习手记</a> ·
+  <a href="#与我交流">与我交流</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌱 关于我
+
+你好，我是 **Pluto**。这里收集我的代码、学习笔记，以及那些值得动手试一试的想法。
+
+以 **C++** 和 **Python** 为主要编程语言，希望把学到的知识，慢慢变成能解决问题的作品。
+
+> 把好奇写成代码，把走过的路留成笔记。
+
+### 🧩 作品与记录
+
+| 入口 | 你可以在这里找到 |
+| :--- | :--- |
+| [项目仓库](https://github.com/Pluto-Liu-github?tab=repositories) | 我的代码与项目；具体功能、使用方法见各仓库说明 |
+| [学习手记](./notes/README.md) | 笔记目录，为后续的知识整理与实践复盘留一处入口 |
+
+<!-- 有代表项目后，把上面的“项目仓库”替换为 2–3 个具体项目。
+每个项目用一句话说明解决什么问题，再写清你的贡献与可验证的结果。
+格式：[真实项目名](真实仓库链接) | 解决的问题；个人贡献；演示或结果。
+不要把尚未完成的项目或计划写成已经取得的成果。
 -->
+
+### 🛠 常用语言
+
+**C++** &nbsp; / &nbsp; **Python**
+
+<!-- 可以补充实际用过的工具；仅列出能够结合项目解释的技术。 -->
+
+### ✉️ 与我交流
+
+欢迎围绕具体项目交流问题、想法与改进建议，交流入口见对应仓库。
+
+<!-- 求职时，可在这里添加你愿意公开的联系邮箱、简历链接和目标岗位。
+例如：工作机会与项目合作：[联系邮箱](mailto:你的公开邮箱)。
+不要直接公开身份证件、家庭住址或其他无关信息。
+-->
+
+---
+
+<p align="center"><sub>愿每一次微小的探索，都有回响。</sub></p>
